@@ -1,0 +1,27 @@
+.configuration-window {
+  background-color: rgb(206, 172, 127);
+  min-width: 50vw;
+}
+
+.btns {
+  margin: auto;
+  display: flex;
+  min-width: 30vw;
+  justify-content: space-between;
+}
+
+.btn {
+  background-color: rgb(185, 156, 94);
+  width: 150px;
+  border-radius: 5px;
+  border: 1px solid black;
+  text-align: center;
+  padding: 6px 12px;
+  cursor: pointer;
+  color: rgb(211, 221, 199);
+  margin: 3vh 3.5vw;
+}
+
+.span {
+  color: #fff;
+}

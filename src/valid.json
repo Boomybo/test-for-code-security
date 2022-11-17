@@ -1,0 +1,236 @@
+{
+  "Lenovo":{
+     "IdeaCentre Gaming g5":{
+        "mainCharachteristics":{
+           "system":"without OC",
+           "processor":"Core i3-10100",
+           "motherboard":"LGA1200",
+           "RAM":"8",
+           "video card":"GeForce GTX 1650 SUPER",
+           "data storage":"512",
+           "price":"45499"
+        },
+        "options":{
+           "card rider":"SD",
+           "keyboard": false,
+           "mouse": false
+        }
+     },
+     "IdeaCentre Gaming 5":{
+        "mainCharachteristics":{
+           "system":"without OC",
+           "processor":"Ryzen 5 5600G",
+           "motherboard":"AMD PRO 565",
+           "RAM":"16",
+           "video card":"GeForce RTX 3060",
+           "data storage":"1 TB",
+           "price":"99799"
+        },
+        "options":{
+           "card rider":"SD",
+           "keyboard": false,
+           "mouse": false
+        }
+     },
+     "Legion T5":{
+        "mainCharachteristics":{
+           "system":"without OC",
+           "processor":"Core i5-11400F",
+           "motherboard10105F":"Intel B560",
+           "RAM":"8",
+           "video card":"GeForce RTX 3060Ti",
+           "data storage":"1 TB",
+           "price":"139999"
+        },
+        "options":{
+           "card rider":false,
+           "keyboard": false,
+           "mouse": false
+        }
+     }
+  },
+  "ZET GAMING":{
+     "NEO M061":{
+        "mainCharachteristics":{
+           "system":"without OC",
+           "processor":"Core i3-10105F",
+           "motherboard":"Intel H510",
+           "RAM":"8",
+           "video card":"GeForce GTX 1650",
+           "data storage":"500",
+           "price":"45999"
+        },
+        "options":{
+           "card rider": false,
+           "keyboard": false,
+           "mouse": false
+        }
+     },
+     "NEO M073":{
+        "mainCharachteristics":{
+           "system":"without OC",
+           "processor":"Core i5-11400F",
+           "motherboard":"Intel B560",
+           "RAM":"16",
+           "video card":"GeForce RTX 3050",
+           "data storage":"512",
+           "price":"69999"
+        },
+        "options":{
+           "card rider": false,
+           "keyboard":true,
+           "mouse": true
+        }
+     },
+     "WARD H201":{
+        "mainCharachteristics":{
+           "system":"Windows 11 Home Single Language",
+           "processor":"Core i5-11400F",
+           "motherboard":"Intel B560",
+           "RAM":"16",
+           "video card":"Radeon RX 6600 XT",
+           "data storage":"512",
+           "price":"70799"
+        },
+        "options":{
+           "card rider": false,
+           "keyboard":true,
+           "mouse": true
+        }
+     },
+     "WARD H281":{
+        "mainCharachteristics":{
+           "system":"without OC",
+           "processor":"Core i5-12400F",
+           "motherboard":"Intel B660",
+           "RAM":"16",
+           "video card":"GeForce RTX 3060Ti",
+           "data storage":"512",
+           "price":"89999"
+        },
+        "options":{
+           "card rider": false,
+           "keyboard": true,
+           "mouse": false
+        }
+     },
+     "EVO X008":{
+        "mainCharachteristics":{
+           "system":"without OC",
+           "processor":"Core i7-12700KF",
+           "motherboard":"Intel Z690",
+           "RAM":"32",
+           "video card":"GeForce RTX 3080",
+           "data storage":"1 TB",
+           "price":"169999"
+        },
+        "options":{
+           "card rider": false,
+           "keyboard": false,
+           "mouse": false
+        }
+     }
+  },
+  "Raskat":{
+     "Strike 520":{
+        "mainCharachteristics":{
+           "system":"without OC",
+           "processor":"Core i5-10400",
+           "motherboard":"LGA1200",
+           "RAM":"16",
+           "video card":"GeForce RTX 3060",
+           "data storage":"500",
+           "price":"117999"
+        },
+        "options":{
+           "card rider": false,
+           "keyboard": true,
+           "mouse": true
+        }
+     },
+     "Strike 720":{
+        "mainCharachteristics":{
+           "system":"without OC",
+           "processor":"Core i7-10700",
+           "motherboard":"Intel B460",
+           "RAM":"16",
+           "video card":"GeForce RTX 3070",
+           "data storage":"0",
+           "price":"129999"
+        },
+        "options":{
+           "card rider": false,
+           "keyboard": true,
+           "mouse": true
+        }
+     }
+  },
+  "HP":{
+     "Pavilion Gaming TG01":{
+        "mainCharachteristics":{
+           "system":"without OC",
+           "processor":"Ryzen 3 5300G",
+           "motherboard":"AMD B450",
+           "RAM":"16",
+           "video card":"GeForce GTX 1650",
+           "data storage":"512",
+           "price":"49999"
+        },
+        "options":{
+           "card rider": false,
+           "keyboard": false,
+           "mouse": false
+        }
+     },
+     "OMEN 25L":{
+        "mainCharachteristics":{
+           "system":"without OC",
+           "processor":"Core i5-11400F",
+           "motherboard":"Intel Z590",
+           "RAM":"16",
+           "video card":"GeForce RTX 3060Ti",
+           "data storage":"512",
+           "price":"108499"
+        },
+        "options":{
+           "card rider": false,
+           "keyboard": false,
+           "mouse": false
+        }
+     }
+  },
+  "MSI":{
+     "MAG Trident S":{
+        "mainCharachteristics":{
+           "system":"Windows 11 Home Single Language",
+           "processor":"Ryzen 5 5600G",
+           "motherboard":"AMD B300",
+           "RAM":"8",
+           "video card":"AMD Radeon Graphics",
+           "data storage":"512",
+           "price":"59999"
+        },
+        "options":{
+           "card rider": false,
+           "keyboard": false,
+           "mouse": false
+        }
+     },
+     "MAG Infinite S3":{
+        "mainCharachteristics":{
+           "system":"without OC",
+           "processor":"Core i5-11400F",
+           "motherboard":"Intel H510",
+           "RAM":"16",
+           "video card":"GeForce RTX 3060",
+           "data storage":"512",
+           "price":"109999"
+        },
+        "options":{
+           "card rider": false,
+           "keyboard": false,
+           "mouse": false
+        }
+     }
+  }
+}

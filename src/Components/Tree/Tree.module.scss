@@ -1,0 +1,12 @@
+.tree {
+  background-color: rgb(165, 132, 88);
+  color: rgb(211, 221, 199);
+  border: 5px;
+}
+
+.tree-mark:hover {
+  background-color: rgb(230, 222, 214);
+  cursor: pointer;
+  color: black;
+  border-radius: 5px;
+}
